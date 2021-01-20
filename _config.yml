@@ -21,7 +21,7 @@
 title: Alexey Balitskiy's homepage
 email: balitski@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Страничка Алексея Балицкого
+  Страничка Лёши Балицкого
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http://example.com
