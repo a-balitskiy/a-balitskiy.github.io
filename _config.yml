@@ -32,7 +32,7 @@ url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http
 markdown: kramdown
 theme: minima
 github:
-  is_project_page: false
+  is_project_page: true
 #plugins:
 #  - jekyll-feed
 
