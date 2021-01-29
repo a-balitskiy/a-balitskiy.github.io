@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-At some point this will be a meaningful site
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-So far it only contains my [CV]({{site.baseurl}}/files/cv2020sep.pdf)
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-Meanwhile please listen to [Desyatnikov's _April (Lullaby)_ from _Russian seasons_](https://www.youtube.com/watch?v=-G-USvlba-0) and compare it to [this Russian folk song]({{site.baseurl}}/files/kachulnaya.mp3)
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
