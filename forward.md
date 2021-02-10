@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "От комбинаторики к геометрии"
 permalink: /MIPT_comb-geom/
 ---
 
