@@ -21,11 +21,7 @@
 title: Alexey Balitskiy
 email: balitski@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  In the practice of the Tao,
-  every day something is dropped.
-  Less and less do you need to force things,
-  until finally you arrive at non-action.
-   - Laozi (tr. S. Mitchell)
+  One day Lan Ts’ai-ho was found to have become intoxicated in an inn at Fêng-yang Fu in Anhui, and while in that state disappeared on a cloud, having thrown down to earth her shoe, robe, belt, and castanets.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http://example.com
