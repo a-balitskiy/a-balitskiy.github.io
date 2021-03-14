@@ -21,11 +21,11 @@
 title: Alexey Balitskiy
 email: balitski@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-In the practice of the Tao,
-every day something is dropped.
-Less and less do you need to force things,
-until finally you arrive at non-action.
- - Laozi (tr. S. Mitchell)
+  In the practice of the Tao,
+  every day something is dropped.
+  Less and less do you need to force things,
+  until finally you arrive at non-action.
+   - Laozi (tr. S. Mitchell)
 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http://example.com
