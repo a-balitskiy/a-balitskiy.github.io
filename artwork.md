@@ -1,6 +1,6 @@
 ---
-
 layout: page
+title: ""
 permalink: /artwork
 ---
 ## Violin assembly drawing
