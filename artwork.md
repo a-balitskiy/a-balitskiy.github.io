@@ -13,9 +13,9 @@ Music: [Desyatnikov's song about Moscow](https://www.youtube.com/watch?v=xTINGRR
 
 ## Hyperbolic jigsaw puzzle
 
-<img src="{{site.baseurl}}/pics/lobachevsky1.jpg" alt="Lobachevsky 1" title="Lobachevsky 1" width="486">
+<img src="{{site.baseurl}}/pics/lobachevsky1.jpg" alt="Lobachevsky 1" title="Lobachevsky 1" width="490">
 <img src="{{site.baseurl}}/pics/lobachevsky2.jpg" alt="Lobachevsky 2" title="Lobachevsky 2" width="300">
-<img src="{{site.baseurl}}/pics/lobachevsky3.jpg" alt="Lobachevsky 3" title="Lobachevsky 3" width="180">
+<img src="{{site.baseurl}}/pics/lobachevsky3.jpg" alt="Lobachevsky 3" title="Lobachevsky 3" width="184">
  
 > two parallel lines  
 live in the euclidean world  
