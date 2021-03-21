@@ -10,7 +10,7 @@ So far it only contains my [CV]({{site.baseurl}}/files/cv.pdf) and [pictures of 
 
 Meanwhile you can listen to [Desyatnikov's _April (Lullaby)_ from _Russian seasons_](https://www.youtube.com/watch?v=-G-USvlba-0) and compare it to [this Russian folk song]({{site.baseurl}}/files/kachulnaya.mp3)
 
-![Tea ceremony, Oct 2020]({{site.baseurl}}/pics/tea.png "Tea ceremony, Oct 2020")
+![Tea ceremony, Oct 2020]({{site.baseurl}}/pics/tea.jpg "Tea ceremony, Oct 2020")
 
 [Страничка кружка 2021 г. по топологической комбинаторике](/mipt2021combitop)
 
