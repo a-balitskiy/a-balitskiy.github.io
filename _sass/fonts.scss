@@ -1,4 +1,40 @@
 @font-face {
+  font-family: 'Amatic';
+  font-style: normal;
+  src: url('../fonts/AmaticSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Amatic';
+  font-style: bold;
+  src: url('../fonts/AmaticSC-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Neucha';
+  font-style: normal;
+  src: url('../fonts/Neucha-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bellota';
+  font-style: normal;
+  src: url('../fonts/Bellota-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bellota';
+  font-style: bold;
+  src: url('../fonts/Bellota-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bellota';
+  font-style: italic;
+  src: url('../fonts/Bellota-Italic.ttf') format('truetype');
+}
+
+@font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
   font-style: normal;
