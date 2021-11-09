@@ -25,9 +25,9 @@ to the neighboring lobachevsky world
 
 ## Kintsugi technique of repairing ceramics
 
-<img src="{{site.baseurl}}/pics/kintsugi1.jpg" alt="Kintsugi 1" title="Kintsugi 1" height="240">
-<img src="{{site.baseurl}}/pics/kintsugi2.jpg" alt="Kintsugi 2" title="Kintsugi 2" height="240">
-<img src="{{site.baseurl}}/pics/kintsugi3.jpg" alt="Kintsugi 3" title="Kintsugi 3" height="240">
+<img src="{{site.baseurl}}/pics/kintsugi1.jpg" alt="Kintsugi 1" title="Kintsugi 1" width="490">
+<img src="{{site.baseurl}}/pics/kintsugi2.jpg" alt="Kintsugi 2" title="Kintsugi 2" width="204">
+<img src="{{site.baseurl}}/pics/kintsugi3.jpg" alt="Kintsugi 3" title="Kintsugi 3" width="280">
 
 ## Other projects
 
