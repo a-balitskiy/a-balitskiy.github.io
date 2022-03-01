@@ -4,9 +4,9 @@
 
 layout: home
 ---
-At some point this will be a meaningful site
+<img src="{{site.baseurl}}/pics/guerra.jpg" alt="хуй войне" title="хуй войне" width="290">
 
-So far it only contains my [CV]({{site.baseurl}}/files/cv.pdf) and [pictures of my artwork]({{site.baseurl}}/artwork)
+For now, this website only contains my [CV]({{site.baseurl}}/files/cv.pdf) and [pictures of my artwork]({{site.baseurl}}/artwork)
 
 Meanwhile you can listen to [Desyatnikov's _April (Lullaby)_ from _Russian seasons_](https://www.youtube.com/watch?v=-G-USvlba-0) and compare it to [this Russian folk song]({{site.baseurl}}/files/kachulnaya.mp3)
 
