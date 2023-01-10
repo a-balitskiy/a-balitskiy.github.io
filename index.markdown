@@ -12,8 +12,4 @@ Meanwhile you can listen to [Desyatnikov's _April (Lullaby)_ from _Russian seaso
 
 <img src="{{site.baseurl}}/pics/tea.jpg" alt="Tea ceremony, Oct 2020" title="Tea ceremony, Oct 2020" width="490">
 
-[Страничка кружка 2022 г. по алгебраической комбинаторике](/mipt2022combialg)
-
-[Страничка кружка 2021 г. по топологической комбинаторике](/mipt2021combitop)
-
-[Записки кружка 2018 г. по комбинаторной геометрии](/mipt2018combigeo)
+Странички кружков на русском: [комбиалг-2022](/mipt2022combialg), [комбитоп-2021](/mipt2021combitop), [комбигеом-2018](/mipt2018combigeo)
