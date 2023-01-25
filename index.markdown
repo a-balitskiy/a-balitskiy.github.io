@@ -12,4 +12,4 @@ Meanwhile you can listen to [Desyatnikov's _April (Lullaby)_ from _Russian seaso
 
 <img src="{{site.baseurl}}/pics/tea.jpg" alt="Tea ceremony, Oct 2020" title="Tea ceremony, Oct 2020" width="490">
 
-Странички кружков на русском: [комбиалг-2022](/mipt2022combialg), [комбитоп-2021](/mipt2021combitop), [комбигеом-2018](/mipt2018combigeo)
+Странички кружков на русском: [систолик-2023](/mipt2023systolic), [комбиалг-2022](/mipt2022combialg), [комбитоп-2021](/mipt2021combitop), [комбигеом-2018](/mipt2018combigeo)
