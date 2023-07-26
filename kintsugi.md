@@ -9,16 +9,16 @@ permalink: /kintsugi
 <video width="490" controls="controls">
   <source src="{{site.baseurl}}/pics/kintsugi0.mp4" type="video/mp4">
 </video>
-<video width="252" controls="controls">
+<video width="257" controls="controls">
   <source src="{{site.baseurl}}/pics/kintsugi1.mp4" type="video/mp4">
 </video>
-<video width="232" controls="controls">
+<video width="227" controls="controls">
   <source src="{{site.baseurl}}/pics/kintsugi2.mp4" type="video/mp4">
 </video>
-<video width="222" controls="controls">
+<video width="212" controls="controls">
   <source src="{{site.baseurl}}/pics/kintsugi3.mp4" type="video/mp4">
 </video>
-<video width="262" controls="controls">
+<video width="272" controls="controls">
   <source src="{{site.baseurl}}/pics/kintsugi4.mp4" type="video/mp4">
 </video>
 <img src="{{site.baseurl}}/pics/kintsugi1.jpg" alt="Kintsugi 1" title="Kintsugi 1" width="490">
