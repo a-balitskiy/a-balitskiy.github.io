@@ -24,7 +24,7 @@ Some of the current highlights include:
 
 [Notes about a packing perspective on Viterbo's conjecture]({{site.baseurl}}/files/viterbo.pdf)
 
-[Video of my talk on this packing perspective at a conference in Rio de Janeiro] (https://www.youtube.com/watch?v=5mIAkXNnqh4)
+[Video of my talk on this packing perspective at a conference in Rio de Janeiro](https://www.youtube.com/watch?v=5mIAkXNnqh4)
 
 An augmented reality visualization of this packing problem:
 
