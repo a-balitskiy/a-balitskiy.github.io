@@ -6,7 +6,7 @@ permalink: /msca
 
 ## MSCA project 101107896: Systolic and diastolic estimates in geometry
 
-This page will is occasionally updated with the highlights of my MSCA (aka Marie Curie) project, dedicated to
+This page is occasionally updated with the highlights of my MSCA (aka Marie Curie) project, dedicated to
 
 + systolic freedom in manifolds;
 
