@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /kintsugi
+permalink: /msca
 ---
 
 ## MSCA project 101107896: Systolic and diastolic estimates in geometry
