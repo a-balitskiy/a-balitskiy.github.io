@@ -29,3 +29,7 @@ Some of the current highlights include:
 An augmented reality visualization of this packing problem:
 
 <img src="{{site.baseurl}}/pics/billiard.gif" alt="Augmented reality" title="Augmented reality">
+
+An applet displaying (almost) all polyhedra whose lagrangian product with the regular simplex has the properties of a symplectic ball: 
+
+<iframe src="https://www.wolframcloud.com/obj/5872a96d-1418-46a1-8abc-c7709bfb728a?_embed=iframe" width="600" height="800"></iframe>
