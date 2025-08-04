@@ -36,5 +36,5 @@ An applet displaying (almost) all polyhedra whose lagrangian product with the re
 
 <iframe src="https://www.wolframcloud.com/obj/0a54873f-32f9-4d91-bb8f-ab9588a7c966?_embed=iframe" style="border: none" width="600" height="450"></iframe>
 
-The non-zero slider values have to form a connected graph on the vertex set {0,1,2,3}, but they can tend to zero with different speeds and it will result in different limit polyhedra. If moving sliders doesn't affect the polyhedron, try refreshing the page.
+The non-zero slider values have to form a connected graph on the vertex set {0,1,2,3}, but they can tend to zero with different speeds, and this will result in different limit polyhedra. If moving sliders doesn't affect the polyhedron, try refreshing the page.
 
