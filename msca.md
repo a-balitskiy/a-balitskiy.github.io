@@ -4,7 +4,7 @@ title: ""
 permalink: /msca
 ---
 
-## MSCA project 101107896: Systolic and diastolic estimates in geometry
+## Marie SKLODOWSKA-CURIE ACTIONS --- Project: 101107896 --- Systoles-diastoles --- HORIZON-MSCA-2022-PF-01
 
 This page is occasionally updated with the highlights of my MSCA (aka Marie Curie) project, dedicated to
 
